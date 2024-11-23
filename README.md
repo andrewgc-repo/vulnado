@@ -1,4 +1,4 @@
-# Vulnado - Intentionally Vulnerable Java Application. 8-20-24ff.,,j
+# Vulnado - Intentionally Vulnerable Java Application. 11-23-24 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them..
 
 ## Up and running
